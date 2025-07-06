@@ -1,5 +1,5 @@
-![preview](result.screenshot.jpg)
 # AI Task – Image Classification using Teachable Machine
+![preview](result.screenshot.jpg)
 
 This project uses a Teachable Machine image model to classify images into two categories: cups and spoons.
 
